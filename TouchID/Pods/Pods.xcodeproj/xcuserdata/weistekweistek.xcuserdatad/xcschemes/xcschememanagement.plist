@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>MagicalRecord.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Masonry.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-TouchID.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>11911F49F28E069886BA890B1142F486</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>32DEF64546320E2C35950D1553E9DF99</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9F85A41AEB2CCB56ACDA370DF8DDB444</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C1F93BB4396269FD38B3E7A331289782</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
